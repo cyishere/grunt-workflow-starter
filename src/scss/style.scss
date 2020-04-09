@@ -1,0 +1,46 @@
+@import 'base';
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $color-yellowlight;
+  color: $color-black;
+  overflow: hidden;
+}
+
+.float-right {
+  float: right;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 2;
+}
+p, ul li, ol li {
+  line-height: 1.7;
+}
+
+#hero {
+  width: 90%;
+  height: 150px;
+  margin: 10px auto;
+  box-shadow: 5px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $color-brownlight;
+}
+
+#list {
+  color: $color-whiteprimary;
+  font-size: 72px;
+  width: 90%;
+  margin: 20px auto;
+  overflow-y: auto;
+  ul {
+    list-style: inside;
+  }
+}

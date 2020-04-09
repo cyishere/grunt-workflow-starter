@@ -1,0 +1,24 @@
+{
+  "name": "grunt-workflow-start",
+  "version": "1.0.0",
+  "description": "A front-end workflow for HTML + CSS + JS.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "grunt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "7.9.0",
+    "@babel/preset-env": "7.9.5",
+    "autoprefixer": "9.7.6",
+    "grunt": "1.1.0",
+    "grunt-babel": "8.0.0",
+    "grunt-browser-sync": "2.2.0",
+    "grunt-contrib-cssmin": "3.0.0",
+    "grunt-contrib-sass": "1.0.0",
+    "grunt-contrib-watch": "1.1.0",
+    "grunt-postcss": "0.9.0"
+  }
+}
