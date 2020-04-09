@@ -1,5 +1,5 @@
 # About
-This is a frond-end workflow for HTML/SASS and vanila javascript by using [Grunt](https://gruntjs.com/).
+This is a frond-end workflow for HTML/SASS and vanilla Javascript by using [Grunt](https://gruntjs.com/).
 
 It's a very basic boilerplate, welcome to use it for front-end developing.
 
